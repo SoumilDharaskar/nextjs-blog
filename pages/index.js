@@ -12,7 +12,7 @@ export default function Home() {
         <p>
           <b>Hello!</b> My name is{' '}
           <b>
-            <i>Soumil Dharaskar</i>
+            <i>Soumil Dharaskar!</i>
           </b>
           . I am an avid Software Engineer, proficient in C/C++, Python, Java,
           JavaScript, TypeScript, and a variety of other tools and frameworks!{' '}
