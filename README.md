@@ -1,1 +1,1 @@
-Simple Next.js blog referencing https://nextjs.org/learn/foundations/about-nextjs
+Simple Next.js blog created referencing https://nextjs.org/learn/foundations/about-nextjs
